@@ -105,6 +105,11 @@ h2 {
   margin: 5px 2px 5px 2px;
 }
 
+.blog-images {
+  padding: 5%;
+  height: 175px;
+}
+
 .format-about-me {
   height: 300px;
   width: 100%;
